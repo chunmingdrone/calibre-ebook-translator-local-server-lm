@@ -1,0 +1,131 @@
+artificial intelligence
+人工智慧
+
+large language model
+大型語言模型
+
+machine learning
+機器學習
+
+deep learning
+深度學習
+
+local area network
+區域網路
+
+user interface
+使用者介面
+
+operating system
+作業系統
+
+Traditional Chinese
+繁體中文
+
+applications
+應用程式
+
+application
+應用程式
+
+programs
+程式
+
+program
+程式
+
+databases
+資料庫
+
+database
+資料庫
+
+networks
+網路
+
+network
+網路
+
+servers
+伺服器
+
+server
+伺服器
+
+plugins
+外掛程式
+
+plugin
+外掛程式
+
+e-books
+電子書
+
+e-book
+電子書
+
+ebooks
+電子書
+
+ebook
+電子書
+
+files
+檔案
+
+file
+檔案
+
+Taiwan
+臺灣
+
+computer
+電腦
+
+software
+軟體
+
+hardware
+硬體
+
+information
+資訊
+
+data
+資料
+
+quality
+品質
+
+video
+影片
+
+memory
+記憶體
+
+storage
+儲存空間
+
+internet
+網際網路
+
+Calibre
+Calibre
+
+calibre
+calibre
+
+Ebook Translator
+Ebook Translator
+
+LM Studio
+LM Studio
+
+EPUB
+EPUB
+
+API
+API
+
+URL
+URL
