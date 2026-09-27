@@ -1,0 +1,37 @@
+{
+  "name": "LM Studio Gemma 4 E4B",
+  "languages": {
+    "source": {
+      "English": "English",
+      "Chinese (Traditional)": "Traditional Chinese"
+    },
+    "target": {
+      "Chinese (Traditional)": "Traditional Chinese",
+      "English": "English"
+    }
+  },
+  "request": {
+    "url": "http://127.0.0.1:1234/v1/chat/completions",
+    "method": "POST",
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "data": {
+      "model": "google/gemma-4-e4b",
+      "messages": [
+        {
+          "role": "system",
+          "content": "Translate the following text from <source> to <target>. For Traditional Chinese, use natural wording and terminology used in Taiwan. Preserve meaning, names, paragraph structure, and formatting. Return only the final translation, with no explanation."
+        },
+        {
+          "role": "user",
+          "content": "<text>"
+        }
+      ],
+      "temperature": 0.1,
+      "max_tokens": 2048,
+      "stream": false
+    }
+  },
+  "response": "response['choices'][0]['message']['content']"
+}
