@@ -1,0 +1,4 @@
+interface:
+  display_name: "Calibre Ebook Translator + LM Studio"
+  short_description: "Configure Calibre translation through LM Studio"
+  default_prompt: "Use $calibre-ebook-translator-local-server-lm to configure or troubleshoot Ebook Translator with an LM Studio server."
